@@ -68,16 +68,24 @@ public class Wykonawca {
     }
 
     System.out.println();
+    System.out.println();
+    System.out.println();
+    System.out.println("Wektor wejsciowy:");
+    System.out.println();
 
-    /*for (int i = 0; i < size; i++) {
+    for (int i = 0; i < size; i++) {
       System.out.print(vector[i] + " ");
-    }*/
+    }
 
     long end = System.currentTimeMillis();
 
     System.out.println();
+    System.out.println();
 
     System.out.println("Czas " + (end - start));
+
+    System.out.println();
+    System.out.println("Macierz wejsciowa:");
 
     for (int i = 0; i < size; i++) {
       System.out.println();
@@ -86,8 +94,7 @@ public class Wykonawca {
       }
     }
 
-    // teraz wyświetli się na końcu
-
+    System.out.println();
     System.out.println();
 
     System.out.println("Koniec maina!");
