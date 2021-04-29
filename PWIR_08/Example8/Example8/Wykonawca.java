@@ -14,7 +14,6 @@ import java.util.concurrent.Future;
 public class Wykonawca {
 
   static final int size = Runtime.getRuntime().availableProcessors();
-  static int current_row_index = 1;
 
   static Random rand = new Random();
   static int[][] matrix = new int[size][size];
@@ -34,7 +33,7 @@ public class Wykonawca {
     }
 
     for (int i = 0; i < size; i++) {
-      result[i] = 1;
+      result[i] = 0;
     }
 
     long start = System.currentTimeMillis();
@@ -43,8 +42,7 @@ public class Wykonawca {
 
     for (int i = 0; i < size; i++) {
 
-      current_row_index = i;
-      Counter task = new Counter();
+      Counter task = new Counter(i);
       FutureTask<Integer> task1 = new FutureTask<Integer>(task);
       exec.execute(task1);
 
