@@ -1,0 +1,52 @@
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.csprojAssemblyReference.cache
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.AssemblyInfoInputs.cache
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.AssemblyInfo.cs
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.exe
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.deps.json
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.runtimeconfig.json
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.runtimeconfig.dev.json
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.dll
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.pdb
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.dll
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.pdb
+C:\Users\siedl\Desktop\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.genruntimeconfig.cache
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.exe
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.deps.json
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.runtimeconfig.json
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.runtimeconfig.dev.json
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.dll
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.pdb
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.csprojAssemblyReference.cache
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.AssemblyInfoInputs.cache
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.AssemblyInfo.cs
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.dll
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.pdb
+C:\Users\danie\OneDrive\Pulpit\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.genruntimeconfig.cache
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.exe
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.deps.json
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.runtimeconfig.json
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.runtimeconfig.dev.json
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.dll
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.pdb
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.csprojAssemblyReference.cache
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.AssemblyInfoInputs.cache
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.AssemblyInfo.cs
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.csproj.CoreCompileInputs.cache
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.dll
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.pdb
+D:\GDrive\Uczelnia\PWIR\WCF\PWIR_07\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.genruntimeconfig.cache
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.exe
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.deps.json
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.runtimeconfig.json
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.runtimeconfig.dev.json
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.dll
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\bin\Debug\netcoreapp3.1\WCF_CLIENT.pdb
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.csprojAssemblyReference.cache
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.AssemblyInfoInputs.cache
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.AssemblyInfo.cs
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.csproj.CoreCompileInputs.cache
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.dll
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.pdb
+C:\Users\user\STUDIA\3ROKIIsem\PWIR\PDF'y\zaj 10\PWIR_09\WCF_CLIENT\WCF_CLIENT\obj\Debug\netcoreapp3.1\WCF_CLIENT.genruntimeconfig.cache
